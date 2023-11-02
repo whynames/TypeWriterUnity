@@ -10,5 +10,8 @@
   },
   "description": "",
   "category": "",
-  "dependencies": "com.cysharp.unitask": "2.3.3"
+   "dependencies": 
+  {
+    "com.cysharp.unitask": "2.3.3"
+  }
 }
