@@ -12,10 +12,6 @@
   "category": "",
    "dependencies": 
   {
-<<<<<<< HEAD
-   "com.cysharp.unitask": "https://github.com/Cysharp/UniTask.git?path=src/UniTask/Assets/Plugins/UniTask#v2.5.0"
-=======
     "com.cysharp.unitask": "2.5.0"
->>>>>>> parent of 8b2b4a8 (Update package.json)
   }
 }
